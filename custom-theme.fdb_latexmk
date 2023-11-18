@@ -1,0 +1,11 @@
+# Fdb version 4
+["latex"] 1700067794 "custom-theme.tex" "custom-theme.dvi" "custom-theme" 1700067795 2
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
+  "/var/lib/texmf/web2c/pdftex/latex.fmt" 1699124249 6767910 81398d7f023d6ed6095fac6d7743a8d8 ""
+  "custom-theme.aux" 1700067794 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "custom-theme.tex" 1700067712 6919 6b5fd105a5e6f1f7d3eeb07af8aa58e8 ""
+  (generated)
+  "custom-theme.aux"
+  "custom-theme.dvi"
+  "custom-theme.log"
+  (rewritten before read)

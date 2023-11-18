@@ -1,0 +1,12 @@
+# Fdb version 4
+["latex"] 1700067795 "matter.tex" "matter.dvi" "matter" 1700067795 2
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
+  "/var/lib/texmf/web2c/pdftex/latex.fmt" 1699124249 6767910 81398d7f023d6ed6095fac6d7743a8d8 ""
+  "matter.aux" 1700067795 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "matter.tex" 1700067712 11174 445f73d823ab729ec399e9622b0227db ""
+  "memoir.cls" 0 -1 0 ""
+  (generated)
+  "matter.aux"
+  "matter.dvi"
+  "matter.log"
+  (rewritten before read)

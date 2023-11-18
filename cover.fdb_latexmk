@@ -1,0 +1,12 @@
+# Fdb version 4
+["latex"] 1700067791 "cover.tex" "cover.dvi" "cover" 1700067794 2
+  "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
+  "/var/lib/texmf/web2c/pdftex/latex.fmt" 1699124249 6767910 81398d7f023d6ed6095fac6d7743a8d8 ""
+  "cover.aux" 1700067791 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "cover.tex" 1700067712 9992 441ce33ccd68bafcdeda69f7abaed49b ""
+  "report.cls" 0 -1 0 ""
+  (generated)
+  "cover.aux"
+  "cover.dvi"
+  "cover.log"
+  (rewritten before read)
